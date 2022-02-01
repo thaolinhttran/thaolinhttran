@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Linh Tran.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning Java, C/C+, JavaScript, MATLAB, Dart
+- 🌱 I’m currently learning Java, C, JavaScript(Node.js), MATLAB, Dart, and SQL
 - 📫 Email: thaolinhttran@gmail.com
